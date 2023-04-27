@@ -1,0 +1,4 @@
+/env
+*.sh
+__*
+.DS_Store
